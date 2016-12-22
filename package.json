@@ -1,19 +1,19 @@
 {
-  "name": "xyz.transport.auth.basic.receive",
-  "version": "0.0.1",
-  "description": "basuc auth receive plugin for xyz",
-  "main": "xyz.transport.auth.basic.receive.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/node-xyz/xyz.transport.auth.basic.receive.git"
-  },
-  "author": "kian.peymani@gmail.com",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/node-xyz/xyz.transport.auth.basic.receive/issues"
-  },
-  "homepage": "https://github.com/node-xyz/xyz.transport.auth.basic.receive#readme"
+    "name": "xyz.transport.auth.basic.receive",
+    "version": "0.1.2",
+    "description": "basuc auth receive plugin for xyz",
+    "main": "xyz.transport.auth.basic.receive.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/node-xyz/xyz.transport.auth.basic.receive.git"
+    },
+    "author": "kian.peymani@gmail.com",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/node-xyz/xyz.transport.auth.basic.receive/issues"
+    },
+    "homepage": "https://github.com/node-xyz/xyz.transport.auth.basic.receive#readme"
 }

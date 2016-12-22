@@ -1,7 +1,7 @@
-const logger = require('./../../Log/Logger')
-const wrapper = require('./../../Util/ansi.colors').wrapper
+let ReceveBasicAuth = function (params, next, end, xyz) {
+  let logger = xyz.logger
+  let wrapper = xyz.Util.wrapper
 
-let ReceveBasicAuth = function (params, next, end) {
   let request = params[0]
   let response = params[1]
   let body = params[2]
